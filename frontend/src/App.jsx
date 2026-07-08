@@ -15,7 +15,7 @@ import {
 } from '@stellar/stellar-sdk';
 
 // ---- CONFIG ----
-const CONTRACT_ID = 'CAMDVVJTCXTSQ3N2HXKUITVGUD6XB4CXWJ5V2ZQARF4H3MPD4ZQYTQSF';
+const CONTRACT_ID = 'CBT2CTMB47ADYTTJCBISXCRDCALTP75T6NP7YCQQXTONY6V5GB6JVV3P';
 const RPC_URL = 'https://soroban-testnet.stellar.org';
 const NETWORK_PASSPHRASE = Networks.TESTNET;
 
@@ -153,7 +153,7 @@ function App() {
   if (txStatus === 'fail') statusText = 'Failed';
 
   return (
-    <div style={{ maxWidth: 500, margin: '60px auto', fontFamily: 'sans-serif', color: '#eee' }}>
+    <div style={{ maxWidth: 500, margin: '60px auto', fontFamily: 'sans-serif', color: '#eee', padding: '0 16px' }}>
       <h1>Tip Jar</h1>
 
       {!address ? (
