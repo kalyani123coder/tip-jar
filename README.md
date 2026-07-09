@@ -43,7 +43,7 @@ A production-ready decentralized Tip Jar application built on the Stellar networ
 ![Wallet Options](./screenshots/wallet-options.png)
 
 ### Successful Tip Transaction (Live)
-![Transaction Success](./screenshots/live-transaction-success.png)
+![Transaction Success](./screenshots/transaction-success.png)
 
 ### Contract Test Output (4/4 Passing)
 ![Test Output](./screenshots/test-output.png)
