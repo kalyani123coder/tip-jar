@@ -3,6 +3,7 @@
 A production-ready decentralized Tip Jar application built on the Stellar network using Soroban smart contracts. Users can connect their wallet, send tips, and see the total tips collected update in real time. Includes automated testing, CI/CD, and a live deployment.
 
 **Live Demo:** https://tip-jar-eosin.vercel.app
+**Demo Video:** https://youtu.be/rya-krsnDMc
 
 ## Features
 
