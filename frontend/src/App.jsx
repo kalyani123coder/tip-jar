@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react';
 import { useState } from 'react';
 import {
   StellarWalletsKit,
@@ -155,6 +156,7 @@ function App() {
   return (
     <div style={{ maxWidth: 500, margin: '60px auto', fontFamily: 'sans-serif', color: '#eee', padding: '0 16px' }}>
       <h1>Tip Jar</h1>
+      <Analytics />
 
       {!address ? (
         <button onClick={connectWallet} style={btnStyle}>
