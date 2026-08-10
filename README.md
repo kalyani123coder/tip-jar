@@ -123,3 +123,5 @@ Run with: cargo test inside contracts/hello-world
 ## Author
 
 Built as part of the Stellar Developer Bootcamp - Level 3 submission (Advanced Smart Contracts + Production-Ready dApps).
+## Live Demo
+Check out the live app: https://tip-jar-eosin.vercel.app
