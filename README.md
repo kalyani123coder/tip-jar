@@ -122,8 +122,8 @@ Run with: cargo test inside contracts/hello-world
 
 ## Author
 
-Built as part of the Stellar Developer Bootcamp - Level 3 submission (Advanced Smart Contracts + Production-Ready dApps).
-## Live Demo
-Check out the live app: https://tip-jar-eosin.vercel.app
-## Tech Stack
-Built with React, Vite, Soroban Smart Contracts, and Stellar Wallets Kit.
+Built as part of the Stellar Developer Bootcamp - Level 4 submission (Production-Ready MVP + Real Users)
+## User Testing & Feedback
+
+10+ real users tested the app with live wallet interactions on Stellar Testnet. Full list of users, wallet addresses, ratings, and feedback:
+https://docs.google.com/spreadsheets/d/1niYpkqAxkAbMULH0CnhgsjjWiT5Kj3py/edit?usp=drive_link
